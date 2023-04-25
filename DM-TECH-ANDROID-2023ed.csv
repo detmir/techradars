@@ -1,4 +1,4 @@
-ame,ring,quadrant,isNew,description
+name,ring,quadrant,isNew,description
 Kotlin,Adopt,Languages & Frameworks,FALSE,Modern statically-typed programming language for JVM, Android, and more,
 Recycli,Adopt,Languages & Frameworks,FALSE,Kotlin library for Android RecyclerView that simplifies the creation of multiple view types lists. Featuring DiffUtils inside, annotation-based adapter generator and MVI pattern as philosophy, it is both a simple and powerful tool for rapid development of RecyclerView-based screens,
 RxKotlin,Hold,Languages & Frameworks,FALSE,Reactive extension for Kotlin, functional reactive programming,
