@@ -30,3 +30,10 @@ Cocoapods,Adopt,Tools,FALSE,<p>CocoaPods is a dependency manager for Swift and O
 Swift Package Manager,Trial,Tools,TRUE,<p>The Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. - <a href='https://www.swift.org/package-manager/'>Docs</a></p>
 Swift Concurrency,Assess,Languages & frameworks,TRUE,<p>Swift has built-in support for writing asynchronous and parallel code in a structured way. - <a href='https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/'>Docs</a></p>
 Swift UI,Hold,Languages & frameworks,TRUE,<p>SwiftUI provides views, controls, and layout structures for declaring your app’s user interface. - <a href='https://developer.apple.com/documentation/swiftui'>Docs</a></p>
+Combine,Hold,Languages & frameworks,TRUE,<p>The Combine framework provides a declarative Swift API for processing values over time. - <a href='https://developer.apple.com/documentation/combine'>Docs</a></p>
+iOS 12 minimal target,Adopt,Platforms,FALSE,<p>iOS 12 as minimal target for application running</p>
+iOS 13 minimal target,Trial,Platforms,FALSE,<p>iOS 13 as minimal target for application running</p>
+iOS 14 minimal target,Assess,Platforms,FALSE,<p>iOS 14 as minimal target for application running</p>
+iOS 15 minimal target,Hold,Platforms,FALSE,<p>iOS 15 as minimal target for application running</p>
+iOS 16 minimal target,Hold,Platforms,FALSE,<p>iOS 16 as minimal target for application running</p>
+iOS 17 minimal target,Hold,Platforms,TRUE,<p>iOS 17 as minimal target for application running</p>
