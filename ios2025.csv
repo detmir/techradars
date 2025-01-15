@@ -1,0 +1,37 @@
+name,ring,quadrant,isNew,description
+Swift,Adopt,Languages & frameworks,FALSE,<p>Swift is a general-purpose programming language that's approachable for newcomers and powerful for experts. It is fast, modern, safe, and a joy to write. - <a href='https://www.swift.org'>Docs</a></p>
+RxSwift,Adopt,Languages & frameworks,FALSE,<p>RxSwift is the Swift-specific implementation of the Reactive Extensions standard. - <a href='https://github.com/ReactiveX/RxSwift'>Docs</a></p>
+Realm,Adopt,Languages & frameworks,FALSE,<p>Realm is a fast, scalable alternative to SQLite with mobile to cloud data sync that makes building real-time, reactive mobile apps easy. - <a href='https://realm.io'>Docs</a></p>
+Alamofire,Adopt,Languages & frameworks,FALSE,<p>Alamofire is an HTTP networking library written in Swift. - <a href='https://github.com/Alamofire/Alamofire'>Docs</a></p>
+Moya,Adopt,Languages & frameworks,FALSE,<p>Moya/Moya: Network abstraction layer written in Swift. - <a href='https://github.com/Moya/Moya'>Docs</a></p>
+UIKit,Adopt,Languages & frameworks,TRUE,<p>Construct and manage a graphical, event-driven user interface for your iOS, iPadOS, or tvOS app. - <a href='https://kotlinlang.org/docs/flow.html'>Docs</a></p>
+Feature Flags,Adopt,Techniques,FALSE,<p>Software development technique to turn features on/off at runtime enabling controlled rollouts and testing - <a href='https://www.featureflags.io/'>Docs</a></p>
+Trunk Based Development,Adopt,Techniques,FALSE,<p>A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after. - <a href='https://trunkbaseddevelopment.com'>Docs</a></p>
+Gitlab,Adopt,Platforms,FALSE,<p>Web-based DevOps lifecycle platform offering version control and CI/CD pipelines and monitoring and more - <a href='https://docs.gitlab.com/'>Docs</a></p>
+Allure Testops,Adopt,Platforms,FALSE,<p>Orchestrate and keep control of your manual and automation testing: import any results from any source, integrate seamlessly with any CI platform, track tests, and report failures effortlessly. - <a href='https://qameta.io'>Docs</a></p>
+Firebase,Adopt,Platforms,FALSE,<p>Google's mobile backend-as-a-service offering realtime database and authentication and crash reporting and more - <a href='https://firebase.google.com/docs'>Docs</a></p>
+Jira,Adopt,Platforms,FALSE,<p>Proprietary project management tracking tool from Atlassian used for agile development and issue tracking - <a href='https://confluence.atlassian.com/jiracoreserver'>Docs</a></p>
+SnowPlow,Trial,Languages & frameworks,TRUE,<p>Open source data pipeline for collecting and processing and operationalizing high volume behavioral data - <a href='https://docs.snowplowanalytics.com/'>Docs</a></p>
+Confluence,Adopt,Platforms,FALSE,<p>Team collaboration software from Atlassian for creating technical documentation and knowledge management - <a href='https://confluence.atlassian.com/doc/confluence-documentation-home-3296.html'>Docs</a></p>
+Unit Testing,Adopt,Techniques,FALSE,<p>Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use</p>
+Snapshot Testing,Adopt,Techniques,FALSE,<p>Snapshot testing is a type of “output comparison” or “golden master” testing. These tests prevent regressions by comparing the current characteristics of an application or component with stored “good” values for those characteristics. - <a href='https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks'>Docs</a></p>
+UI Testing,Adopt,Techniques,FALSE,<p>Testing approach that focuses on simulating user interface interactions to validate functionality and UX - <a href='https://www.browserstack.com/guide/ui-testing-and-its-types'>Docs</a></p>
+Quick,Adopt,Languages & frameworks,FALSE,<p>Quick is a behavior-driven development framework for Swift and Objective-C - <a href='https://github.com/Quick/Quick'>Docs</a></p>
+Nimble,Adopt,Languages & frameworks,FALSE,<p>Use Nimble to express the expected outcomes of Swift or Objective-C expressions - <a href='https://github.com/Quick/Nimble'>Docs</a></p>
+Swift Snapshot Testing,Adopt,Languages & frameworks,FALSE,<p>Delightful Swift snapshot testing. - <a href='https://github.com/pointfreeco/swift-snapshot-testing'>Docs</a></p>
+Yandex Maps,Adopt,Languages & frameworks,FALSE,<p>Maps and location services platform from Yandex with APIs for web and mobile apps - <a href='https://tech.yandex.com/maps/doc/jsapi/2.1/quick-start/tasks/quick-start-docpage/'>Docs</a></p>
+Lottie,Adopt,Languages & frameworks,FALSE,<p>Lightweight, scalable animations for your websites and apps - <a href='https://lottiefiles.com'>Docs</a></p>
+SwiftLint,Adopt,Tools,FALSE,<p>A tool to enforce Swift style and conventions - <a href='https://github.com/realm/SwiftLint'>Docs</a></p>
+SwiftFormat,Adopt,Tools,FALSE,<p>SwiftFormat is a code library and command-line tool for reformatting Swift code on macOS, Linux or Windows. - <a href='https://github.com/nicklockwood/SwiftFormat'>Docs</a></p>
+SwiftGen,Adopt,Tools,FALSE,<p>SwiftGen is a tool to automatically generate Swift code for resources of your projects (like images, localised strings, etc), to make them type-safe to use. - <a href='https://github.com/SwiftGen/SwiftGen'>Docs</a></p>
+Tuist,Adopt,Tools,TRUE,<p>Supercharge your Xcode development workflows - <a href='https://tuist.io'>Docs</a></p>
+Backend Driven UI,Adopt,Techniques,FALSE,<p>Backend-Driven Development (or Backend-Driven UI, or also Server-Driven UI) is the idea of developing front-end applications with screens and flows based on servers responses.</p>
+Cocoapods,Adopt,Tools,FALSE,<p>CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects - <a href='https://cocoapods.org'>Docs</a></p>
+Swift Package Manager,Trial,Tools,TRUE,<p>The Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. - <a href='https://www.swift.org/package-manager/'>Docs</a></p>
+Swift Concurrency,Assess,Languages & frameworks,TRUE,<p>Swift has built-in support for writing asynchronous and parallel code in a structured way. - <a href='https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/'>Docs</a></p>
+Swift UI,Hold,Languages & frameworks,TRUE,<p>SwiftUI provides views, controls, and layout structures for declaring your app’s user interface. - <a href='https://developer.apple.com/documentation/swiftui'>Docs</a></p>
+Combine,Hold,Languages & frameworks,TRUE,<p>The Combine framework provides a declarative Swift API for processing values over time. - <a href='https://developer.apple.com/documentation/combine'>Docs</a></p>
+iOS 15 minimal target,Adopt,Platforms,FALSE,<p>iOS 15 as minimal target for application running</p>
+iOS 16 minimal target,Trial,Platforms,FALSE,<p>iOS 16 as minimal target for application running</p>
+iOS 17 minimal target,Assess,Platforms,TRUE,<p>iOS 17 as minimal target for application running</p>
+iOS 18 minimal target,Assess,Platforms,TRUE,<p>iOS 17 as minimal target for application running</p>
