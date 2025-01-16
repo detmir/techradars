@@ -13,7 +13,7 @@ lint-staged,Adopt,Tools,FALSE,<p>Script that runs automatically on Git staged fi
 vitest,Adopt,Tools,FALSE,<p>Vitest (pronounced as "veetest") is a next generation testing framework powered by Vite. <a href='https://vitest.dev/'>Docs</a></p>
 Cypress,Hold,Tools,FALSE,<p>Front end testing tool built for the modern web that allows developers to write faster more reliable browser-based tests <a href='https://docs.cypress.io/guides/overview/why-cypress'>Docs</a></p>
 Playwright,Trial,Tools,TRUE,<p>Playwright is a tool that enables reliable and fast end-to-end testing for web apps across browsers <a href='https://playwright.dev/>Docs</a></p>
-Kubernetes,Trial,Platforms,FALSE,<p>Open source system for automating deployment scaling and operations of containerized applications - <a href='https://kubernetes.io/docs/home/'>Docs</a></p>
+Kubernetes,Adopt,Platforms,FALSE,<p>Open source system for automating deployment scaling and operations of containerized applications - <a href='https://kubernetes.io/docs/home/'>Docs</a></p>
 Docker,Adopt,Tools,FALSE,<p>Widely used open platform for building sharing and running applications using OS-level virtualization to deliver them in containers <a href='https://docs.docker.com/'>Docs</a></p>
 Jenkins,Adopt,Tools,FALSE,<p>Leading open source automation server used for CI/CD and automating software development processes <a href='https://www.jenkins.io/doc/'>Docs</a></p>
 Logstash,Adopt,Tools,FALSE,<p>Flexible server-side data processing pipeline that allows collecting data from diverse sources transforming it and sending it to various targets <a href='https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html'>Docs</a></p>
@@ -46,5 +46,5 @@ react-hook-form,Adopt,Languages & frameworks,FALSE,<p>React hooks library for bu
 yup,Adopt,Languages & frameworks,FALSE,<p>JavaScript schema builder that validates values against schemas and provides clear validation errors <a href='https://github.com/jquense/yup'>Docs</a></p>
 Private NPM Registry,Adopt,Tools,FALSE,<p>Private container registry for JavaScript packages with access control and analytics <a href='https://docs.npmjs.com/creating-and-publishing-private-packages'>Docs</a></p>
 Feature Flags,Adopt,Techniques,FALSE,<p>Software development technique to turn features on/off at runtime enabling controlled rollouts and testing - <a href='https://www.featureflags.io/'>Docs</a></p>
-UI tests,Assess,Techniques,FALSE,<p>Testing approach that focuses on simulating user interface interactions to validate functionality and UX - <a href='https://www.browserstack.com/guide/ui-testing-and-its-types'>Docs</a></p>
+UI tests,Adopt,Techniques,FALSE,<p>Testing approach that focuses on simulating user interface interactions to validate functionality and UX - <a href='https://www.browserstack.com/guide/ui-testing-and-its-types'>Docs</a></p>
 Unit Tests,Adopt,Techniques,FALSE,<p>Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use</p>
