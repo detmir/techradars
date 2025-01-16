@@ -1,0 +1,50 @@
+name,ring,quadrant,isNew,description
+ElasticSearch,Adopt,Platforms,FALSE,<p>Popular distributed search and analytics engine designed for horizontal scalability and high availability <a href='https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html'>Docs</a></p>
+Autoprefixer,Adopt,Tools,FALSE,<p>PostCSS plugin that parses CSS and adds vendor prefixes automatically based on browser compatibility data <a href='https://github.com/postcss/autoprefixer'>Docs</a></p>
+postCSS,Adopt,Tools,FALSE,<p>Powerful toolkit for transforming CSS with JavaScript plugins like Autoprefixer Sass and more <a href='https://postcss.org/'>Docs</a></p>
+Webpack,Hold,Tools,FALSE,<p>Leading open source static module bundler for modern JavaScript applications with a robust plugin ecosystem <a href='https://webpack.js.org/concepts/'>Docs</a></p>
+Vite,Adopt,Tools,FALSE,<p>Vite is a blazing fast frontend build tool powering the next generation of web applications. <a href='https://vite.dev/'>Docs</a></p>
+Module Federation,Trial,Tools,FALSE,<p>Webpack 5 feature that enables dynamic runtime code sharing between multiple separate bundles <a href='https://webpack.js.org/concepts/module-federation/'>Docs</a></p>
+Babel,Adopt,Tools,FALSE,<p>Open source transpiler that converts ECMAScript 2015+ code into backwards compatible JavaScript that can run in older environments <a href='https://babeljs.io/docs/en/'>Docs</a></p>
+ESLint,Adopt,Tools,FALSE,<p>Pluggable and configurable JavaScript linter used to identify problematic patterns and enforce consistent code style guidelines <a href='https://eslint.org/docs/latest/'>Docs</a></p>
+Prettier,Adopt,Tools,FALSE,<p>Opinionated code formatter that supports multiple languages and integrates with most editors to enforce consistent code style <a href='https://prettier.io/docs/en/index.html'>Docs</a></p>
+Husky,Adopt,Tools,FALSE,<p>Tool for configuring Git hooks that runs scripts on events like commit push and more to automate tasks like linting and testing <a href='https://typicode.github.io/husky/#/?id=usage'>Docs</a></p>
+lint-staged,Adopt,Tools,FALSE,<p>Script that runs automatically on Git staged files allowing configurable linting formatting and other tasks on changes before commit <a href='https://github.com/okonet/lint-staged'>Docs</a></p>
+vitest,Adopt,Tools,FALSE,<p>Vitest (pronounced as "veetest") is a next generation testing framework powered by Vite. <a href='https://vitest.dev/'>Docs</a></p>
+Cypress,Hold,Tools,FALSE,<p>Front end testing tool built for the modern web that allows developers to write faster more reliable browser-based tests <a href='https://docs.cypress.io/guides/overview/why-cypress'>Docs</a></p>
+Playwright,Trial,Tools,TRUE,<p>Playwright is a tool that enables reliable and fast end-to-end testing for web apps across browsers <a href='https://playwright.dev/>Docs</a></p>
+Kubernetes,Trial,Platforms,FALSE,<p>Open source system for automating deployment scaling and operations of containerized applications - <a href='https://kubernetes.io/docs/home/'>Docs</a></p>
+Docker,Adopt,Tools,FALSE,<p>Widely used open platform for building sharing and running applications using OS-level virtualization to deliver them in containers <a href='https://docs.docker.com/'>Docs</a></p>
+Jenkins,Adopt,Tools,FALSE,<p>Leading open source automation server used for CI/CD and automating software development processes <a href='https://www.jenkins.io/doc/'>Docs</a></p>
+Logstash,Adopt,Tools,FALSE,<p>Flexible server-side data processing pipeline that allows collecting data from diverse sources transforming it and sending it to various targets <a href='https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html'>Docs</a></p>
+Grafana,Adopt,Tools,FALSE,<p>Feature-rich open source data visualization and monitoring solution designed for metrics dashboards and time-series analytics <a href='https://grafana.com/docs/'>Docs</a></p>
+Kibana,Adopt,Tools,FALSE,<p>Free and open user interface designed specifically for the Elastic Stack that excel for search view and interact with data <a href='https://www.elastic.co/guide/en/kibana/current/index.html'>Docs</a></p>
+GitLab,Adopt,Platforms,FALSE,<p>Fully featured DevOps platform delivered as a single application to plan create deploy monitor operate and secure applications <a href='https://docs.gitlab.com/'>Docs</a></p>
+Sentry,Hold,Tools,FALSE,<p>Open source error monitoring platform that helps developers monitor and fix crashes in real time <a href='https://docs.sentry.io/'>Docs</a></p>
+OpenAPI (Swagger),Adopt,Tools,FALSE,<p>Open source platform for designing and documenting RESTful APIs with built-in mocks and testing - <a href='https://swagger.io/docs/'>Docs</a></p>
+Atlassian Jira,Adopt,Platforms,FALSE,<p>Leading proprietary project and issue tracking tool from Atlassian with advanced reporting workflows and automation <a href='https://www.atlassian.com/software/jira/guides'>Docs</a></p>
+Atlassian Confluence,Adopt,Platforms,FALSE,<p>Powerful team collaboration and workflow management software from Atlassian for technical writing and knowledge management <a href='https://confluence.atlassian.com/doc/confluence-documentation-home-3296.html'>Docs</a></p>
+Figma,Adopt,Tools,FALSE,<p>Leading collaborative interface design tool built in the browser with powerful features for designing prototyping and generating code <a href='https://help.figma.com/'>Docs</a></p>
+Linux,Adopt,Languages & frameworks,FALSE,<p>Open source operating system with excellent stability and security widely used for servers and infrastructure <a href='https://www.linux.org/'>Docs</a></p>
+HTML,Adopt,Languages & frameworks,FALSE,<p>Standard markup language designed for creating web pages and applications that runs in all browsers <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>Docs</a></p>
+CSS,Adopt,Languages & frameworks,FALSE,<p>Cascading style sheet language used for styling and laying out web pages and applications <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>Docs</a></p>
+JavaScript,Adopt,Languages & frameworks,FALSE,<p>High level multi paradigm programming language used for web development and writing web applications <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>Docs</a></p>
+Node.js,Adopt,Languages & frameworks,FALSE,<p>Open source cross-platform JavaScript runtime for building scalable network applications <a href='https://nodejs.org/en/docs/'>Docs</a></p>
+koa,Adopt,Languages & frameworks,FALSE,<p>Lean and powerful Nodejs web framework for building scalable RESTful APIs web apps and more <a href='https://koajs.com/'>Docs</a></p>
+TypeScript,Adopt,Languages & frameworks,FALSE,<p>Open source programming language developed by Microsoft; superset of JavaScript <a href='https://www.typescriptlang.org/docs/'>Docs</a></p>
+React,Adopt,Languages & frameworks,FALSE,<p>Popular open source front end JavaScript library for building modular user interfaces <a href='https://reactjs.org/docs/getting-started.html'>Docs</a></p>
+Redux,Adopt,Languages & frameworks,FALSE,<p>Predictable state management library commonly used with React for managing application state <a href='https://redux.js.org/introduction/getting-started'>Docs</a></p>
+Reselect,Adopt,Languages & frameworks,FALSE,<p>Simple library for creating memoized selector functions to efficiently derive data from Redux state <a href='https://github.com/reduxjs/reselect'>Docs</a></p>
+@reduxjs/toolkit,Adopt,Languages & frameworks,FALSE,<p>Official optimized Redux developer tools containing libraries that simplify common use cases <a href='https://redux-toolkit.js.org/introduction/getting-started'>Docs</a></p>
+styled-components,Adopt,Languages & frameworks,FALSE,<p>Popular CSS-in-JS library for styling React component systems using tagged template literals <a href='https://styled-components.com/'>Docs</a></p>
+UI Kit,Adopt,Languages & frameworks,FALSE,<p>Reusable UI components</p>
+dayjs,Adopt,Languages & frameworks,FALSE,<p>Lightweight alternative to Momentjs for parsing manipulating validating formatting and displaying dates <a href='https://day.js.org/docs/en/installation/installation'>Docs</a></p>
+slate,Adopt,Languages & frameworks,FALSE,<p>Framework for developing rich text editors in React like Medium Docs Google Docs Slack etc <a href='https://docs.slatejs.org/'>Docs</a></p>
+@testing-library,Adopt,Languages & frameworks,FALSE,<p>Simple and complete React DOM testing utilities to encourage good testing practices <a href='https://testing-library.com/docs/'>Docs</a></p>
+Lodash,Adopt,Languages & frameworks,FALSE,<p>JavaScript utility library delivering consistency modularity customization on top of native JavaScript <a href='https://lodash.com/docs/'>Docs</a></p>
+react-hook-form,Adopt,Languages & frameworks,FALSE,<p>React hooks library for building forms with validation in React without crazy boilerplate code <a href='https://react-hook-form.com/'>Docs</a></p>
+yup,Adopt,Languages & frameworks,FALSE,<p>JavaScript schema builder that validates values against schemas and provides clear validation errors <a href='https://github.com/jquense/yup'>Docs</a></p>
+Private NPM Registry,Adopt,Tools,FALSE,<p>Private container registry for JavaScript packages with access control and analytics <a href='https://docs.npmjs.com/creating-and-publishing-private-packages'>Docs</a></p>
+Feature Flags,Adopt,Techniques,FALSE,<p>Software development technique to turn features on/off at runtime enabling controlled rollouts and testing - <a href='https://www.featureflags.io/'>Docs</a></p>
+UI tests,Assess,Techniques,FALSE,<p>Testing approach that focuses on simulating user interface interactions to validate functionality and UX - <a href='https://www.browserstack.com/guide/ui-testing-and-its-types'>Docs</a></p>
+Unit Tests,Adopt,Techniques,FALSE,<p>Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use</p>
