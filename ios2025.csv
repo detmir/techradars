@@ -11,7 +11,7 @@ Gitlab,Adopt,Platforms,FALSE,<p>Web-based DevOps lifecycle platform offering ver
 Allure Testops,Adopt,Platforms,FALSE,<p>Orchestrate and keep control of your manual and automation testing: import any results from any source, integrate seamlessly with any CI platform, track tests, and report failures effortlessly. - <a href='https://qameta.io'>Docs</a></p>
 Firebase,Adopt,Platforms,FALSE,<p>Google's mobile backend-as-a-service offering realtime database and authentication and crash reporting and more - <a href='https://firebase.google.com/docs'>Docs</a></p>
 Jira,Adopt,Platforms,FALSE,<p>Proprietary project management tracking tool from Atlassian used for agile development and issue tracking - <a href='https://confluence.atlassian.com/jiracoreserver'>Docs</a></p>
-SnowPlow,Trial,Languages & frameworks,TRUE,<p>Open source data pipeline for collecting and processing and operationalizing high volume behavioral data - <a href='https://docs.snowplowanalytics.com/'>Docs</a></p>
+SnowPlow,Adopt,Languages & frameworks,TRUE,<p>Open source data pipeline for collecting and processing and operationalizing high volume behavioral data - <a href='https://docs.snowplowanalytics.com/'>Docs</a></p>
 Confluence,Adopt,Platforms,FALSE,<p>Team collaboration software from Atlassian for creating technical documentation and knowledge management - <a href='https://confluence.atlassian.com/doc/confluence-documentation-home-3296.html'>Docs</a></p>
 Unit Testing,Adopt,Techniques,FALSE,<p>Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use</p>
 Snapshot Testing,Adopt,Techniques,FALSE,<p>Snapshot testing is a type of “output comparison” or “golden master” testing. These tests prevent regressions by comparing the current characteristics of an application or component with stored “good” values for those characteristics. - <a href='https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks'>Docs</a></p>
@@ -27,11 +27,11 @@ SwiftGen,Adopt,Tools,FALSE,<p>SwiftGen is a tool to automatically generate Swift
 Tuist,Adopt,Tools,TRUE,<p>Supercharge your Xcode development workflows - <a href='https://tuist.io'>Docs</a></p>
 Backend Driven UI,Adopt,Techniques,FALSE,<p>Backend-Driven Development (or Backend-Driven UI, or also Server-Driven UI) is the idea of developing front-end applications with screens and flows based on servers responses.</p>
 Cocoapods,Adopt,Tools,FALSE,<p>CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects - <a href='https://cocoapods.org'>Docs</a></p>
-Swift Package Manager,Trial,Tools,TRUE,<p>The Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. - <a href='https://www.swift.org/package-manager/'>Docs</a></p>
+Swift Package Manager,Adopt,Tools,TRUE,<p>The Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. - <a href='https://www.swift.org/package-manager/'>Docs</a></p>
 Swift Concurrency,Assess,Languages & frameworks,TRUE,<p>Swift has built-in support for writing asynchronous and parallel code in a structured way. - <a href='https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/'>Docs</a></p>
-Swift UI,Hold,Languages & frameworks,TRUE,<p>SwiftUI provides views, controls, and layout structures for declaring your app’s user interface. - <a href='https://developer.apple.com/documentation/swiftui'>Docs</a></p>
-Combine,Hold,Languages & frameworks,TRUE,<p>The Combine framework provides a declarative Swift API for processing values over time. - <a href='https://developer.apple.com/documentation/combine'>Docs</a></p>
+Swift UI,Trial,Languages & frameworks,TRUE,<p>SwiftUI provides views, controls, and layout structures for declaring your app’s user interface. - <a href='https://developer.apple.com/documentation/swiftui'>Docs</a></p>
+Combine,Trial,Languages & frameworks,TRUE,<p>The Combine framework provides a declarative Swift API for processing values over time. - <a href='https://developer.apple.com/documentation/combine'>Docs</a></p>
 iOS 15 minimal target,Adopt,Platforms,FALSE,<p>iOS 15 as minimal target for application running</p>
 iOS 16 minimal target,Trial,Platforms,FALSE,<p>iOS 16 as minimal target for application running</p>
 iOS 17 minimal target,Assess,Platforms,TRUE,<p>iOS 17 as minimal target for application running</p>
-iOS 18 minimal target,Assess,Platforms,TRUE,<p>iOS 17 as minimal target for application running</p>
+iOS 18 minimal target,Assess,Platforms,TRUE,<p>iOS 18 as minimal target for application running</p>
