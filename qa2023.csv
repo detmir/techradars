@@ -46,12 +46,11 @@ Elasticsearch,Adopt,Platforms,FALSE,<p>Popular open source real-time distributed
 K6,Adopt,Tools,FALSE,<p>Developer-centric open source load and performance testing tool for scripting tests and measuring key metrics using real browsers - <a href='https://k6.io/docs/'>docs</a></p>       
 Go Swagger,Adopt,Tools,FALSE,<p>Suite of open source tools for automatically generating API documentation like OpenAPI specs from annotated Go source code - <a href='https://goswagger.io/generate/spec.html'>docs</a></p>
 Wireshark,Adopt,Tools,FALSE,<p>Free and open source packet analyzer used for network analysis troubleshooting investigation and development through deep inspection - <a href='https://www.wireshark.org/docs/'>docs</a></p>
-Jenkins, Adopt, Tools,FALSE,<p>https://www.jenkins.io/doc/</p>
-Firebase, Adopt, Tools,FALSE,<p>https://firebase.google.com/docs/</p>
-Unleash, Adopt, Tools,FALSE,<p>https://docs.getunleash.io/</p>
-Sigma, Adopt, Tools,FALSE,<p>https://help.mindbox.ru/docs/</p>
-Mindbox, Adopt, Tools,FALSE,<p>https://firebase.google.com/docs/</p>
-akhq, Adopt, Tools,FALSE,<p>https://akhq.io/docs/</p>
-Sigma, Adopt, Tools,FALSE,<p>https://docs.expf.ru/</p>
-DataGrip, Adopt, Tools,FALSE,<p>https://www.jetbrains.com/datagrip/features/</p>
-Temporal, Adopt, Tools,FALSE,<p>https://docs.temporal.io/</p>
+Jenkins,Adopt,Tools,FALSE,<p>Popular open source automation server enabling continuous integration and continuous delivery through extensible plugins and pipeline automation - <a href='https://www.jenkins.io/doc/'>docs</a></p>
+Firebase,Adopt,Tools,FALSE,<p>Google's mobile and web application development platform providing hosted backend services including realtime database hosting authentication and analytics - <a href='https://firebase.google.com/docs/'>docs</a></p>
+Unleash,Adopt,Tools,FALSE,<p>Feature management platform enabling feature toggling A/B testing and gradual rollouts with real-time evaluation and detailed metrics - <a href='https://docs.getunleash.io/'>docs</a></p>
+Sigma,Adopt,Tools,FALSE,<p>Cloud analytics and business intelligence platform for exploring and visualizing data through a spreadsheet-like interface with SQL power - <a href='https://help.mindbox.ru/docs/'>docs</a></p>
+Mindbox,Adopt,Tools,FALSE,<p>Marketing automation platform providing customer data management personalization and multichannel campaign orchestration capabilities - <a href='https://firebase.google.com/docs/'>docs</a></p>
+akhq,Adopt,Tools,FALSE,<p>Web GUI for Apache Kafka enabling management and monitoring of topics consumers groups and cluster configurations - <a href='https://akhq.io/docs/'>docs</a></p>
+DataGrip,Adopt,Tools,FALSE,<p>JetBrains IDE for database and SQL development supporting multiple databases with intelligent coding assistance and visual query planning - <a href='https://www.jetbrains.com/datagrip/features/'>docs</a></p>
+Temporal,Adopt,Tools,FALSE,<p>Open source microservices orchestration platform for building scalable and reliable distributed applications with durable execution guarantees - <a href='https://docs.temporal.io/'>docs</a></p>
