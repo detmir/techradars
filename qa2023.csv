@@ -46,3 +46,12 @@ Elasticsearch,Adopt,Platforms,FALSE,<p>Popular open source real-time distributed
 K6,Adopt,Tools,FALSE,<p>Developer-centric open source load and performance testing tool for scripting tests and measuring key metrics using real browsers - <a href='https://k6.io/docs/'>docs</a></p>       
 Go Swagger,Adopt,Tools,FALSE,<p>Suite of open source tools for automatically generating API documentation like OpenAPI specs from annotated Go source code - <a href='https://goswagger.io/generate/spec.html'>docs</a></p>
 Wireshark,Adopt,Tools,FALSE,<p>Free and open source packet analyzer used for network analysis troubleshooting investigation and development through deep inspection - <a href='https://www.wireshark.org/docs/'>docs</a></p>
+Jenkins, Adopt, Tools,FALSE,<p>https://www.jenkins.io/doc/</p>
+Firebase, Adopt, Tools,FALSE,<p>https://firebase.google.com/docs/</p>
+Unleash, Adopt, Tools,FALSE,<p>https://docs.getunleash.io/</p>
+Sigma, Adopt, Tools,FALSE,<p>https://help.mindbox.ru/docs/</p>
+Mindbox, Adopt, Tools,FALSE,<p>https://firebase.google.com/docs/</p>
+akhq, Adopt, Tools,FALSE,<p>https://akhq.io/docs/</p>
+Sigma, Adopt, Tools,FALSE,<p>https://docs.expf.ru/</p>
+DataGrip, Adopt, Tools,FALSE,<p>https://www.jetbrains.com/datagrip/features/</p>
+Temporal, Adopt, Tools,FALSE,<p>https://docs.temporal.io/</p>
