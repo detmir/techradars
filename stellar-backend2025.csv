@@ -1,0 +1,130 @@
+name,ring,quadrant,isNew,description,code
+Apache Commons,Adopt,languages-and-frameworks,FALSE,,1
+Apache CXF,Adopt,languages-and-frameworks,FALSE,,1
+Apache PdfBox,Adopt,languages-and-frameworks,FALSE,,1
+Apache POI,Adopt,languages-and-frameworks,FALSE,,1
+Apache Tika,Adopt,languages-and-frameworks,FALSE,,1
+ArchUnit,Adopt,languages-and-frameworks,FALSE,https://www.archunit.org/,1
+AssertJ,Adopt,languages-and-frameworks,FALSE,,1
+Barcode4J,Adopt,languages-and-frameworks,FALSE,https://github.com/metanorma/barcode4j,1
+fastexcel,Adopt,languages-and-frameworks,FALSE,https://github.com/dhatim/fastexcel,1
+Feign,Adopt,languages-and-frameworks,FALSE,https://github.com/OpenFeign/feign,1
+Guava,Adopt,languages-and-frameworks,FALSE,,1
+ICU4J,Adopt,languages-and-frameworks,FALSE,https://unicode-org.github.io/icu/userguide/icu4j/,1
+ImageIO,Adopt,languages-and-frameworks,FALSE,https://github.com/haraldk/TwelveMonkeys,1
+Jackson,Adopt,languages-and-frameworks,FALSE,,1
+Jacoco,Adopt,languages-and-frameworks,FALSE,,1
+Java Mail,Adopt,languages-and-frameworks,FALSE,https://docs.spring.io/spring-boot/docs/2.0.3.RELEASE/reference/html/boot-features-email.html,1
+Google Jib,Adopt,languages-and-frameworks,FALSE,https://cloud.google.com/java/getting-started/jib,1
+jsoup,Adopt,languages-and-frameworks,FALSE,https://jsoup.org/,1
+JUnit 5,Adopt,languages-and-frameworks,FALSE,,1
+JWT,Adopt,languages-and-frameworks,FALSE,,1
+Jxls,Adopt,languages-and-frameworks,FALSE,https://github.com/jxlsteam/jxls,1
+Liquibase,Adopt,languages-and-frameworks,FALSE,,1
+Lombok,Adopt,languages-and-frameworks,FALSE,,1
+Micrometer,Adopt,languages-and-frameworks,FALSE,,1
+Mockito,Adopt,languages-and-frameworks,FALSE,https://github.com/mockito/mockito,1
+OpenCSV,Adopt,languages-and-frameworks,FALSE,https://opencsv.sourceforge.net/,1
+OpenTracing,Hold,languages-and-frameworks,FALSE,https://opentracing.io/,1
+Shedlock,Adopt,languages-and-frameworks,FALSE,,1
+SolrJ,Adopt,languages-and-frameworks,FALSE,https://solr.apache.org/guide/solr/latest/deployment-guide/solrj.html,1
+Spring Boot 2,Hold,languages-and-frameworks,FALSE,,1
+TestContainers,Adopt,languages-and-frameworks,FALSE,https://www.testcontainers.org/,1
+thumbnailator,Adopt,languages-and-frameworks,FALSE,https://github.com/coobird/thumbnailator,1
+WireMock,Adopt,languages-and-frameworks,FALSE,https://wiremock.org/,1
+zxing,Adopt,languages-and-frameworks,FALSE,https://github.com/zxing/zxing,1
+Springdoc,Adopt,languages-and-frameworks,TRUE,,1
+java-faker,Assess,languages-and-frameworks,FALSE,https://github.com/DiUS/java-faker,3
+Kotlin,Adopt,languages-and-frameworks,FALSE,,2
+OpenPDF,Trial,languages-and-frameworks,FALSE,https://github.com/LibrePDF/OpenPDF,2
+Pitest,Assess,languages-and-frameworks,FALSE,https://pitest.org/,3
+EasyRandom,Hold,languages-and-frameworks,TRUE,,4
+Java 17,Adopt,languages-and-frameworks,TRUE,,1
+Jsonnet,Adopt,languages-and-frameworks,TRUE,,1
+Java 19+,Assess,languages-and-frameworks,TRUE,,3
+OpenTelemetry,Adopt,languages-and-frameworks,TRUE,https://opentelemetry.io/,3
+Spring Boot 3,Adopt,languages-and-frameworks,TRUE,,3
+Envers,Hold,languages-and-frameworks,FALSE,https://hibernate.org/orm/envers/,4
+Hibernate,Hold,languages-and-frameworks,FALSE,,4
+Javamelody,Hold,languages-and-frameworks,FALSE,,4
+JavaScript,Hold,languages-and-frameworks,FALSE,,4
+JUnit 4,Hold,languages-and-frameworks,FALSE,,4
+MapStruct,Hold,languages-and-frameworks,FALSE,,4
+Springfox,Hold,languages-and-frameworks,FALSE,,4
+ELK,Adopt,Platforms,FALSE,,1
+Gitlab & Gitlab CI,Adopt,Platforms,FALSE,,1
+Helm 3,Hold,Platforms,FALSE,,1
+Jenkins,Adopt,Platforms,FALSE,,1
+Kubernetes,Adopt,Platforms,FALSE,,1
+Logstash,Adopt,Platforms,FALSE,,1
+Maven,Adopt,Platforms,FALSE,,1
+Gradle,Trial,Platforms,FALSE,,1
+PostgreSQL,Adopt,Platforms,FALSE,,1
+Swagger/Open API,Adopt,Platforms,FALSE,,1
+VictoriaMetrics,Adopt,Platforms,TRUE,"<p>Modern observability relies on collecting and aggregating an exhaustive set of granular metrics to fully understand, predict and analyze system behavior. But when applied to a cloud native system composed of many redundant and cooperating processes and hosts, the cardinality (or number of unique time series) becomes unwieldy because it grows exponentially with each additional service, container, node, cluster, etc. When dealing with high-cardinality data, we've found that <a href=""https://victoriametrics.com/""><strong>VictoriaMetrics</strong></a> performs well. VictoriaMetrics is particularly useful for operating <a href=""/radar/platforms/kubernetes"">Kubernetes</a>-hosted <a href=""/radar/techniques/microservices"">microservice</a> architectures, and the VictoriaMetrics operator makes it easy for teams to implement their own monitoring in a self-service way. We also like its componentized architecture and ability to continue collecting metrics even when the central server is unavailable. Although our team has been happy with VictoriaMetrics, this is a rapidly evolving area, and we'd recommend keeping an eye on other high-performance, <a href=""/radar/tools/prometheus"">Prometheus</a>-compatible time series databases such as <a href=""https://cortexmetrics.io/"">Cortex</a> or <a href=""https://thanos.io/"">Thanos</a>.</p>",1
+Kafka,Trial,Platforms,FALSE,,2
+Redis,Trial,Platforms,FALSE,,2
+Argo CD,Adopt,Platforms,TRUE,,1
+Temporal.io,Adopt,Platforms,TRUE,,2
+Backstage,Trial,Platforms,TRUE,"<p>In an increasingly digital world, improving developer effectiveness in large organizations is often a core concern of senior leaders. We've seen enough value with developer portals in general and <strong><a href=""https://backstage.io/"">Backstage</a></strong> in particular that we're happy to recommend it in Adopt. Backstage is an open-source developer portal platform created by Spotify that improves discovery of software assets across the organization. It uses Markdown <a href=""https://backstage.io/docs/features/techdocs/techdocs-overview"">TechDocs</a> that live alongside the code for each service, which nicely balances the needs of centralized discovery with the need for distributed ownership of assets. Backstage supports software templates to accelerate new development and a plugin architecture that allows for extensibility and adaptability into an organization's infrastructure ecosystem. <a href=""https://backstage.io/docs/features/software-catalog/software-catalog-overview"">Backstage Service Catalog</a> uses YAML files to track ownership and metadata for all the software in an organization's ecosystem; it even lets you track third-party SaaS software, which usually requires tracking ownership.</p>",2
+Grafana Operator,Adopt,Platforms,TRUE,,1
+Grafana Tanka,Adopt,Platforms,TRUE,,1
+Prometheus Operator,Adopt,Platforms,TRUE,,1
+Sentry,Hold,Platforms,TRUE,,4
+Sloth,Trial,Platforms,TRUE,,2
+Argo Events,Assess,Platforms,TRUE,,3
+Argo Rollouts,Assess,Platforms,TRUE,,3
+Argo Workflows,Assess,Platforms,TRUE,,3
+Grafana Tempo,Assess,Platforms,TRUE,,3
+Kaniko,Assess,Platforms,TRUE,"<p>Most of today's CI/CD pipeline tools and platforms are built on containers as runtimes. Many of our teams are using <strong><a href=""https://github.com/GoogleContainerTools/kaniko"">Kaniko</a></strong> to build container images from within those container-based pipelines. This comes as part of a trend away from <a href=""/radar/platforms/docker"">Docker</a> as the de facto standard for container runtimes. With Kaniko, you can build your images without using a Docker daemon. This helps avoid the security issue of Docker's ""privileged"" mode, which would be necessary for any ""Docker-in-Docker"" activity. Moreover, you don't have to assume that your pipeline has access to a Docker daemon in the first place, which cannot be taken for granted anymore and often requires extra configuration.</p>",3
+MariaDB,Hold,Platforms,FALSE,,4
+CQRS,Adopt,Techniques,FALSE,,1
+Domain Driven Design,Adopt,Techniques,FALSE,,1
+Feature Toggles,Adopt,Techniques,FALSE,,1
+Hexagonal Architecture,Adopt,Techniques,FALSE,,1
+Kanban Method,Adopt,Techniques,FALSE,,1
+Kubernetes Native,Adopt,Techniques,FALSE,,1
+Monte-Carlo Forecasting,Adopt,Techniques,FALSE,Make forecasts based on statistics.,1
+NoEstimates,Adopt,Techniques,FALSE,,1
+Remote First,Adopt,Techniques,FALSE,We design our processes in order to perform with most engineers working remote.,1
+Static Code Analysis,Adopt,Techniques,FALSE,,1
+Stream Aligned Teams,Adopt,Techniques,FALSE,,1
+Team cognitive load,Adopt,Techniques,FALSE,"<p>Team interaction is a key concept when redesigning an organization for business agility and speed. These interactions will be reflected in the software being built (see <a href=""https://www.thoughtworks.com/about-us/news/2021/latest-thoughtworks-technology-radar-proclaims---embrace-conway-"">Conway's Law</a>) and indicate how effectively teams can autonomously deliver value to their customers. Our advice is to be intentional about how teams are designed and how they interact. Because we believe that organizational design and team interactions evolve over time, we think it's particularly important to measure and keep track of the <strong>team cognitive load</strong>, which indicates how easy or difficult teams find building, testing and maintaining their services. We've been using a <a href=""https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment"">template</a> to assess team cognitive load that is based on ideas by the authors of the <em><a href=""https://teamtopologies.com/book"">Team Topologies</a></em> book.</p>
+
+<p>We continue to be impressed by the positive impact of applying this book's concepts when communicating to clients and redesigning organizations. The authors recommend a simple but powerful approach to organizational design, identifying just four types of teams and three modes of interaction; this helps reduce ambiguity within the organization and provides a common vocabulary for teams, stakeholders and leadership to describe and design a team's work. To implement an org design change, we design the ideal to-be team topologies structure, apply any technical/staffing constraints (i.e., not enough employees) and then end up with the final to-be structure. That allows us to better advise clients and anticipate whether we're indeed improving cognitive load by comparing the as-is/to-be team structures.</p>",1
+You make it - you run it,Adopt,Techniques,FALSE,,1
+Continuous Delivery,Adopt,Techniques,TRUE,,1
+Trunk Based Development,Adopt,Techniques,TRUE,,1
+Grafana As A Code,Adopt,Techniques,FALSE,,1
+Mutation Testing,Trial,Techniques,FALSE,,2
+GitOps,Adopt,Techniques,TRUE,,1
+Incremental Developer Platform,Trial,Techniques,TRUE,"<p>We've been writing about developer platforms and how to build them in almost every edition of the Radar since 2017. In the meantime, the <em><a href=""https://teamtopologies.com/book"">Team Topologies</a></em> book has also done a great job of describing the ideal of a platform that supports developers with ""self-service APIs, tools, services and knowledge."" However, we often see teams shooting for too much of that platform vision too fast. Instead, building an <strong>incremental developer platform</strong> is key.</p>
+
+<p><em>Team Topologies</em> recommends to always strive for what they call the ""Thinnest Viable Platform"" necessary at any given stage, where the first version could even be just a set of documentation on a wiki. The next increment could increase the service level by providing templates or allowing teams to create pull requests. Further increments could then introduce self-service APIs, but only if valuable. In short, even though we've cautioned against fully <a href=""/radar/techniques/ticket-driven-platform-operating-models"">ticket-driven platform operating models</a>, going from zero to self-service is the other extreme. Pace yourself, <a href=""/radar/techniques/applying-product-management-to-internal-platforms"">treat your platform as a product</a> and build it up incrementally.</p>",2
+Platform Engineering,Trial,Techniques,TRUE,,2
+Service Catalog,Trial,Techniques,TRUE,,2
+Software Bill of Materials,Trial,Techniques,TRUE,"<p>With continued pressure to keep systems secure and no reduction in the general threat landscape, a machine-readable <strong>Software Bill of Materials</strong> (SBOM) may help teams stay on top of security problems in the libraries that they rely on. Since the original <a href=""https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"">Executive Order</a> was published, the industry has gained clarity and understanding of what an SBOM is and how to create one; the National Institute of Standards and Technology (NIST), for example, now has more <a href=""https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1"">specific advice</a> on how to comply with the order. We've had production experience using SBOMs on projects ranging from small companies to large multinationals and even government departments, and we're convinced they provide a benefit. More organizations and governments should consider requiring SBOMs for the software they use. The technique will be strengthened by the new tools that continue to emerge, such as the <a href=""https://firebase.google.com/docs/android/learn-more#bom"">Firebase Android BOM</a> that automatically aligns an application's library dependencies to those listed in the BOM.</p>",2
+Software Templates,Trial,Techniques,TRUE,,2
+Structured Logging,Trial,Techniques,TRUE,,2
+Alerts As A Code,Adopt,Techniques,TRUE,,1
+Continuous Deployment,Assess,Techniques,TRUE,,3
+Monitoring As A Code,Adopt,Techniques,TRUE,,1
+Observability for CI/CD pipelines,Assess,Techniques,TRUE,"<p>Observability practices have shifted the conversation from monitoring for well-understood problems to helping troubleshoot unknown problems in distributed systems. We've seen success taking that perspective outside of the traditional production environment by applying <strong>observability for CI/CD pipelines</strong> to help optimize testing and deployment bottlenecks. Complex pipelines create developer friction when they run too slow or suffer from nondeterminism, reducing important feedback loops and hindering developer effectiveness. Additionally, their role as critical deployment infrastructure creates stress points during periods of rapid deployments, as happened to several organizations responding to the recent log4shell vulnerability. The concept of traces translates nicely to pipelines: instead of capturing the cascade of service calls, child spans capture information about each stage of the build. The same waterfall charts used to analyze a call flow in a distributed architecture can also be effective in helping us to identify bottlenecks in pipelines, even complex ones with fan-in and fan-out. This enables far more focused optimization efforts. While the technique should work with any tracing tool, <a href=""https://www.honeycomb.io/"">Honeycomb</a> supports a tool called <a href=""https://github.com/honeycombio/buildevents"">buildevents</a> that helps capture pipeline trace information. An alternative approach of capturing information already exposed by CI/CD platforms, taken by the open-source <a href=""https://github.com/cburgmer/buildviz"">buildviz</a> (built and maintained by a Thoughtworker), allows for a similar investigation without changing the step configurations themselves.</p>",3
+SLOs As A Code,Assess,Techniques,TRUE,"<p>Since Google first popularized service-level indicators (SLIs) and service-level objectives (SLOs) as part of their site reliability engineering (SRE) practice, observability tools like <a href=""https://docs.datadoghq.com/monitors/service_level_objectives/"">Datadog</a>, <a href=""https://www.honeycomb.io/slos"">Honeycomb</a> and <a href=""https://www.dynatrace.com/news/blog/what-are-slos/"">Dynatrace</a> started incorporating SLO monitoring into their toolchains. <a href=""https://github.com/OpenSLO/OpenSLO"">OpenSLO</a> is an emerging standard that allows defining <strong>SLIs and SLOs as code</strong>, using a declarative, vendor-neutral specification language based on the YAML format used by <a href=""/radar/platforms/kubernetes"">Kubernetes</a>. While the standard is still quite new, we're seeing some encouraging momentum, as with Sumo Logic's contribution of the <a href=""https://github.com/OpenSLO/slogen"">slogen</a> tool to generate monitoring and dashboards. We're excited by the promise of versioning SLI and SLO definitions in code and updating observability tooling as part of the CI/CD pipeline of the service being deployed.</p>",3
+Sprints,Hold,Techniques,FALSE,,4
+Story Points,Hold,Techniques,FALSE,,4
+Allure TestOps,Adopt,Tools,FALSE,,1
+Confluence,Adopt,Tools,FALSE,,1
+Docker,Adopt,Tools,FALSE,,1
+EditorConfig,Adopt,Tools,FALSE,https://editorconfig.org/,1
+GetNave,Adopt,Tools,FALSE,,1
+Grafana,Adopt,Tools,FALSE,,1
+Grafana k6,Adopt,Tools,FALSE,"<p>Since we first mentioned it in the Radar, <a href=""https://k6.io/""><strong>k6</strong></a> has become a go-to tool for performance testing. We continue to be fans of how easy it is to write JavaScript code for tests, but k6 also has a low-code <a href=""https://k6.io/docs/test-authoring/test-builder"">test builder</a> to make playing with the tool even easier. The documentation shows how easy it is to add performance testing to a pipeline across <a href=""https://k6.io/docs/integrations/#continuous-integration-and-continuous-delivery"">multiple CI/CD tools</a>. Our teams find it easy to integrate <a href=""https://k6.io/docs/integrations/#result-store-and-visualization"">visualization tools</a> like <a href=""/radar/tools/grafana"">Grafana</a> and New Relic, which help them tune both infrastructure and applications. The developer friendliness and ecosystem make k6 a compelling option for investigating a system's behavior under heavy load.</p>",1
+imgproxy,Adopt,Tools,FALSE,https://github.com/imgproxy/imgproxy,1
+Jira,Adopt,Tools,FALSE,,1
+Kibana,Adopt,Tools,FALSE,,1
+Miro,Adopt,Tools,FALSE,,1
+Postman,Adopt,Tools,FALSE,,1
+SonarQube,Adopt,Tools,FALSE,,1
+Sonatype Nexus,Adopt,Tools,FALSE,,1
+Unleash,Adopt,Tools,FALSE,,1
