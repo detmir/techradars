@@ -1,0 +1,18 @@
+java17 
+java8
+SonarQube
+Swagger
+Spring Boot 3
+Liquibase
+Postgres
+Hikari
+Elastic APM
+Spotless
+Unleash
+Solr
+redis
+shedlock
+mysql
+feign
+kafka
+gradle

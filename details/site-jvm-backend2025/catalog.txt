@@ -1,0 +1,26 @@
+Java 21
+Kotlin 2
+Kotlin Coroutines
+Spring Boot 3
+Spring WebFlux
+Netty
+Kafka
+Postgres
+Solr
+Redis
+MyBatis
+Liquibase
+Armeria
+Protobuf
+Jackson
+Caffeine
+JMH
+Elastic APM
+Resilience4j
+Testcontainers
+JUnit 5
+Spotless
+Gradle
+Unleash
+Wiremock
+Swagger

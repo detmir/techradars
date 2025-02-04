@@ -1,0 +1,23 @@
+Java 21
+Gradle
+Spring Boot 3.2
+Spring Boot Admin
+Spring Cloud
+Spring Boot State Machine
+Redis
+Kafka
+Hibernate
+Liquibase
+Feign
+Logstash
+Docker
+Swagger
+Jakarta
+Mapstruct
+Caffeine
+Kryo
+Unleash
+Wiremock
+JUnit
+Mockito
+SonarQube

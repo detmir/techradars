@@ -1,0 +1,27 @@
+Kotlin
+Kotlin Coroutines
+jgitver
+SonarQube
+Swagger
+Spring Boot 2x
+Spring Boot Admin
+OkHttp
+Postgres 13.4
+Logstash
+Liquibase
+Resilience4j
+Shedlock
+JOOQ
+FastExcel
+Hikari
+Elastic APM
+Spotless
+Unleash
+JobRunr
+Testcontainers
+Wiremock
+Mockito
+Awaitility
+Kafka
+Gradle
+Micrometer

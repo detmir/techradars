@@ -1,0 +1,25 @@
+Kotlin
+Gradle
+Spring Boot 2.7
+Postgres
+Spring Cloud
+Redis
+Kafka
+RabbitMQ
+Liquibase
+OkHttp
+Feign
+Logstash
+Docker
+Micrometer
+ShedLock
+Bucket4j
+Jackson
+Unleash
+Elastic APM
+JUnit
+Mockk
+Mockito
+Testcontainers
+Wiremock
+SonarQube

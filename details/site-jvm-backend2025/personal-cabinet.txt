@@ -1,0 +1,29 @@
+Java 21
+Maven
+Spring Boot 2.7
+Spring Boot Admin
+MariaDB
+Redis
+Kafka
+Hibernate
+Liquibase
+Unleash
+Swagger
+ShedLock
+Resilience4j
+Caffeine
+Zxing
+Kryo
+Janito
+Protobuf
+Docker
+Feign
+WebClient
+Logstash
+ElasticApm
+Micrometer
+JUnit
+Testcontainers
+RestAssured
+MockServer
+SonarQube

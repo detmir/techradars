@@ -1,0 +1,31 @@
+Java 17
+Spring Boot
+Spring Data JDBC
+Spring Web
+Spring Security
+Spring Actuator
+Spring AOP
+Spring Kafka
+MapStruct
+SpringDoc
+PostgreSQL
+PostGIS
+Liquibase
+Redis
+Kafka
+Apache HttpClient
+OkHttp
+Jackson
+Jooq
+Apache POI
+Micrometer
+Logback
+Elastic APM
+Resilience4j
+ShedLock
+Testcontainers
+JUnit 5
+Jacoco
+Unleash
+HikariCP
+SonarQube

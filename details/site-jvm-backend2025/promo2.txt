@@ -1,0 +1,16 @@
+java17 
+protobug
+SonarQube
+Swagger
+Spring Boot 3
+Liquibase
+Postgres
+Hikari
+Elastic APM
+Spotless
+Unleash
+Solr
+feign
+mapstruct
+kafka
+gradle

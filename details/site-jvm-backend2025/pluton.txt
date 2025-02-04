@@ -1,0 +1,20 @@
+Kotlin
+JobRunr
+PostgreSQL
+Kafka
+REST over HTTP with JSON
+Jackson
+Unleash
+JUnit
+Spring Boot
+Logback
+JOOQ
+Liquibase
+OkHttp
+Micrometer
+Elastic APM
+Resilience4j
+Testcontainers
+HikariCP
+Jacoco
+SonarQube
